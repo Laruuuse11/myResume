@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{950E8D08-4D7F-46CC-83AA-D77860F64964}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Resume/style.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resume/index.html">
     <Files>
-      <File FileName="Resume/index.html" Line="14" Column="31" />
-      <File FileName="Resume/style.css" Line="1" Column="1" />
+      <File FileName="Resume/index.html" Line="196" Column="42" />
+      <File FileName="Resume/styles.css" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Resume" expanded="True">
             <Node name="Resume" expanded="True">
-              <Node name="style.css" selected="True" />
+              <Node name="index.html" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Resume FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Resume PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -27,12 +27,12 @@ body {
 }
 
 .marginBottom{
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .resume {
-    width: 800px;
-    height: auto;
+    width: 794px;
+    height: 1123px;
     display: flex;
     margin: 50px auto;
 }
@@ -59,17 +59,20 @@ body {
     .resume .title {
         margin-bottom: 20px;
     }
+    .resume .title1 {
+        margin-bottom: 10px;
+    }
 
     .resume .resume_left .bold {
         color: #fff;
     }
 
     .resume .resume_left .regular {
-        color: #b1eaff;
+        color: #fff;
     }
 
     .resume .resume_item {
-        padding: 25px 0;
+        padding: 20px 0;
         border-bottom: 2px solid #b1eaff;
     }
 
@@ -108,7 +111,7 @@ body {
     }
 
     .resume .resume_left ul li .data {
-        color: #b1eaff;
+        color: #fff;
     }
 
     .resume .resume_left .resume_skills ul li {
@@ -121,11 +124,12 @@ body {
 
         .resume .resume_left .resume_skills ul li .skill_name {
             width: 25%;
+            color: #fff;
         }
 
         .resume .resume_left .resume_skills ul li .skill_prawojazdy {
             width: 75%;
-
+            color: #fff;
         }
         .resume .resume_left .resume_skills ul li .category {
             width: 25%;
@@ -133,6 +137,7 @@ body {
         }
         .resume .resume_left .resume_skills ul li .skill_angielski {
             width: 75%;
+            color: #fff;
         }
 
         .resume .resume_left .resume_skills ul li .ang {
@@ -150,6 +155,7 @@ body {
 
         .resume .resume_left .resume_skills ul li .skill_per {
             width: 15%;
+            color: #fff;
         }
 
         .resume .resume_left .resume_skills ul li .skill_progress span {
