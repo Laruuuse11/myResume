@@ -26,6 +26,10 @@ body {
     font-size: 16px;
 }
 
+.marginBottom{
+    margin-bottom: 20px;
+}
+
 .resume {
     width: 800px;
     height: auto;
@@ -182,18 +186,27 @@ body {
             position: relative;
         }
 
+            .resume .resume_right ul li .date1 {
+                font-size: 16px;
+                font-weight: 500;
+                margin-bottom: 5px;
+            }
             .resume .resume_right ul li .date {
                 font-size: 16px;
                 font-weight: 500;
-                margin-bottom: 15px;
+                margin-bottom: 0px;
             }
 
             .resume .resume_right ul li .info {
-                margin-bottom: 20px;
+                margin-bottom: 40px;
+            }
+
+            .resume .resume_right ul li .info1 {
+                margin-bottom: 10px;
             }
 
             .resume .resume_right ul li:last-child .info {
-                margin-bottom: 0;
+                margin-bottom: 0px;
             }
 
         .resume .resume_right .resume_work ul li:before,
@@ -225,7 +238,7 @@ body {
             top: 14px;
             left: -21px;
             width: 2px;
-            height: 115px;
+            height: 90px;
             background: #0bb5f4;
         }
         .resume .resume_right .resume_courses ul li:after {
